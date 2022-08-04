@@ -1,9 +1,6 @@
-# 본좌 소개
-경북소프트웨어고등학교에 진학 중인 최홍찬입니다.
-관심사는 웹 개발, 네트워크 장비 입니다.
+# INTRO
 
-주요 언어 : HTML, CSS, JS, REACT, node.js, python
-
-주요 프로젝트 : 경소고 챗봇
+프론트엔드 주로하는 ( 80% React, 20% HTML ) 개발 좋아하는 학생입니다.
+여러 공모전 나가는 걸 좋아하고 웹 해킹, 디자인에 관심을 가집니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sichu0725&show_icons=true&theme=radical)
