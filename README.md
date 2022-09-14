@@ -7,4 +7,4 @@
 
 <a href="https://opgc.me/#/users/Sichu0725" target="_blank"><img src="https://api.opgc.me/githubs/users/Sichu0725/tag/?theme=basic" /></a>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Sichu0725/Sichu0725/blob/output/github-contribution-grid-snake.svg)
