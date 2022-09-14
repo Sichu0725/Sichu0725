@@ -6,4 +6,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sichu0725&show_icons=true&theme=radical)
 
 <a href="https://opgc.me/#/users/Sichu0725" target="_blank"><img src="https://api.opgc.me/githubs/users/Sichu0725/tag/?theme=basic" /></a>
+
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
